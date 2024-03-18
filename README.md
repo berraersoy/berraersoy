@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @berraersoy
 - 👀 I’m interested in coding and marketing
-- 🌱 I’m currently learning java 
+- 🌱 I’m currently learning Java and Python
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
