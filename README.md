@@ -1,10 +1,9 @@
-## 👩‍💻 Berra Ersoy
+## 👩‍💻 Merhaba! Ben Berra 👋
 
-Merhaba! Ankara Bilim Üniversitesi Yazılım Mühendisliği öğrencisiyim. Veri bilimi ve yapay zeka alanında çalışmalarıma odaklanıyorum. GitHub’ta gerçek veri setleriyle gerçekleştirdiğim projeleri ve öğrenme sürecimi paylaşıyorum.
+Yazılım Mühendisliği öğrencisiyim.  
+Veri bilimi ve yapay zeka alanına ilgi duyuyorum.  
+Python, Java ve C++ dilleriyle projeler geliştiriyorum.  
+GitHub’ı aktif olarak portfolyo için kullanıyorum!
 
-### 🚀 İlgi Alanlarım
-- Veri Analizi ve Görselleştirme
-- Makine Öğrenmesi
-
-### 📫 Bana Ulaş:
-- [[LinkedIn](https://www.linkedin.com/in/berra-ersoy/)
+📫 Bana Ulaş:
+- [LinkedIn](https://www.linkedin.com/in/berra-ersoy/)
