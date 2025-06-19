@@ -7,4 +7,4 @@ Merhaba! Ankara Bilim Üniversitesi Yazılım Mühendisliği öğrencisiyim. Ver
 - Makine Öğrenmesi
 
 ### 📫 Bana Ulaş:
-- [LinkedIn](https://www.linkedin.com/in/berraersoy)
+- [[LinkedIn](https://www.linkedin.com/in/berra-ersoy/)
