@@ -1,9 +1,7 @@
-## 👩‍💻 Merhaba! Ben Berra 👋
+## 👩‍💻 Hi! I'm Berra 👋
 
-Yazılım Mühendisliği öğrencisiyim.  
-Veri bilimi ve yapay zeka alanına ilgi duyuyorum.  
-Python, Java ve C++ dilleriyle projeler geliştiriyorum.  
-GitHub’ı aktif olarak portfolyo için kullanıyorum!
+I'm a Software Engineering student.
+I'm interested in data science and artificial intelligence.
 
-📫 Bana Ulaş:
+📫 Contact me:
 - [LinkedIn](https://www.linkedin.com/in/berra-ersoy/)
